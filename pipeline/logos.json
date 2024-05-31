@@ -47,7 +47,7 @@
 						"pipelineName": "@{pipeline().Pipeline}",
 						"receiver": "@{pipeline().parameters.receiver}"
 					},
-					"timeout": "00:10:00"
+					"timeout": "00:02:00"
 				}
 			}
 		],
