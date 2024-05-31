@@ -1,0 +1,21 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "logos-adf"
+		},
+		"logosdatabricks_accessToken": {
+			"value": ""
+		},
+		"logossource_accountKey": {
+			"value": ""
+		},
+		"logosdatabricks_properties_typeProperties_existingClusterId": {
+			"value": "0529-204405-7clzwhcr"
+		},
+		"logossource_properties_typeProperties_url": {
+			"value": "https://logosloadingzone.dfs.core.windows.net/"
+		}
+	}
+}
