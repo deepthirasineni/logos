@@ -1,0 +1,9 @@
+{
+	"name": "logos-adf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "504cdbb0-5f43-493b-816d-5004ae17206a",
+		"tenantId": "61bf2169-9a06-4f06-bc02-881d1b0ca04f"
+	}
+}
