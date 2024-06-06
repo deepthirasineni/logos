@@ -96,7 +96,8 @@
 						"defaultValue": "surya.5.aari@gmail.com"
 					}
 				},
-				"annotations": []
+				"annotations": [],
+				"lastPublishTime": "2024-05-31T05:17:54Z"
 			},
 			"dependsOn": [
 				"[concat(variables('factoryId'), '/linkedServices/logosdatabricks')]"
