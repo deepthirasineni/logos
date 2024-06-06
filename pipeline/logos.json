@@ -60,6 +60,8 @@
 				"defaultValue": "surya.5.aari@gmail.com"
 			}
 		},
-		"annotations": []
-	}
+		"annotations": [],
+		"lastPublishTime": "2024-05-31T05:17:54Z"
+	},
+	"type": "Microsoft.DataFactory/factories/pipelines"
 }
